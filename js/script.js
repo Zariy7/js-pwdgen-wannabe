@@ -5,4 +5,4 @@ console.log(surname);
 let favColor = prompt("Please, enter your favorite color.");
 console.log(favColor);
 
-document.getElementById("unsafe-password").innerHTML = nome+surname+favColor;
+document.getElementById("unsafe-password").innerHTML = nome+surname+favColor+'23';
